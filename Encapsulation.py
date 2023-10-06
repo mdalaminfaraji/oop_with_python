@@ -8,6 +8,7 @@ class Bank:
         self.__balance+=amount
     def get_balance(self):
         return self.__balance
+ 
 
 rafsun=Bank('Chooto bro', 10000)
 
